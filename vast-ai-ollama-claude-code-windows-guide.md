@@ -1,6 +1,5 @@
 # Vast.ai → Ollama → Claude Code on Windows
 
-Updated against official documentation on **17 November 2026**. Reconstructed and updated from the referenced setup conversation; this is a complete working guide rather than a verbatim transcript.
 
 Your Windows computer runs Claude Code and holds your project files. Ollama and the downloaded model run on a rented Vast.ai GPU. An SSH tunnel connects them:
 
