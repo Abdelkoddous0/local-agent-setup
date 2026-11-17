@@ -332,9 +332,4 @@ For installation issues, use `claude doctor` and the [official setup guidance](h
 
 Closing SSH does not stop rental billing. Stopped instances can still incur storage charges. Back up anything you need before deleting an instance; deletion removes its local data. See [Vast.ai instance management and billing notes](https://docs.vast.ai/guides/get-started/quickstart).
 
-## Illustration and verification notes
-
-The four images above are real interface screenshots from official Vast.ai documentation, saved in the accompanying images folder. They are illustrative examples, not screenshots of your account. Extract the ZIP and keep the Markdown file beside the images folder so they display offline. Source pages remain linked in the captions.
-
-The setup commands were checked against the linked documentation on the date above. They have not been executed against your Windows installation or a rented GPU. Replace example connection values and verify each stage before proceeding.
 
